@@ -49,7 +49,7 @@ To set up EXTW, follow these steps:
 
 4. Run the project:
    ```bash
-   dotnet run EXTW/EXTW.cspoj
+   dotnet run EXTW/EXTW.csproj
 
 ## Contributions
 Feel free to submit issues or pull requests to enhance the functionality and usability of EXTW. 
